@@ -1,0 +1,31 @@
+
+h1 {
+	color:blue ;
+}
+
+.header {
+	background-image: url(http://dwaynecodling.com/wp-content/uploads/2013/11/dwayne10-e1415128135763.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 80% 35%;
+	width: 100%;
+	height: 500px;
+}
+.welcome {
+	text-align: center;
+	padding-top: 150px;
+	font-size: 150px;
+	color: white;
+}
+
+.container {
+	width: 100%;
+	
+}
+
+.center {
+width: 50%;
+margin: 0 auto;
+}
+
+h3{ font-size: 72px}
