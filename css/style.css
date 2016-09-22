@@ -1,33 +1,46 @@
 
-h1 {
-	color:blue ;
-}
 
+.panel {
+	width: 100%;
+	padding-top: 100px;
+}
 .header {
-	background-image: url(http://dwaynecodling.com/wp-content/uploads/2013/11/dwayne10-e1415128135763.jpg);
+	background-image: url(../images/rhino.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: 80% 35%;
+	background-position: 80% 70%;
 	width: 100%;
-	height: 500px;
+	height: 800px;
 }
 .welcome {
 	text-align: center;
-	padding-top: 150px;
+	padding-top: 450px;
 	font-size: 150px;
-	color: white;
+	color: #94daca;
 }
 
 .container {
 	width: 100%;
+	background-color: #707070;
 	
 }
 
-.center {
-width: 50%;
-margin: 0 auto;
+.inner {
+	width: 50%;
+	margin: 0 auto;
+	color: white;
+
 }
 
-h3{ font-size: 72px;}
-
-h2 { font-size: 52px;}
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-size: 2.5em;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+}
+p {
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 1em;
+	line-height: 2em;
+}
