@@ -21,9 +21,12 @@ img { width: 100%;}
 }
 
 .container {
+	background-color: rgba(46,66,41,.9);
+}
+.inner{
 width: 75%;
 margin: auto;
-background-color: rgba(46,66,41,0.8);
+background-color: rgba(46,66,41,0.6);
 	
 }
 
