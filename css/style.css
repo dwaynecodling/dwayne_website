@@ -1,4 +1,4 @@
-
+img { width: 100%;}
 
 .panel {
 	width: 100%;
@@ -17,23 +17,23 @@
 	padding-top: 450px;
 	font-size: 150px;
 	color: #94daca;
+	font-family: 'Lalezar', cursive;
 }
 
 .container {
-	width: 100%;
-	background-color: #707070;
+	background-color: rgba(46,66,41,.9);
+}
+.inner{
+width: 75%;
+margin: auto;
+background-color: rgba(46,66,41,0.6);
 	
 }
 
-.inner {
-	width: 50%;
-	margin: 0 auto;
-	color: white;
 
-}
 
 h1 {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Shrikhand', cursive;
 	font-size: 2.5em;
 	padding-top: 1.5em;
 	padding-bottom: 1.5em;
