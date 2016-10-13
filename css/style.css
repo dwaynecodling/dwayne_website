@@ -1,3 +1,27 @@
+nav { 
+	text-align: center;
+	background-color: #94daca;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+nav li {
+	display: inline-block;
+	border: 2px;
+	border-color: green;
+	border-style: solid;
+	border-radius: 5px;
+	margin-left: 20px;
+	font-family: 'Lalezar', cursive;
+	font-size: 30px;
+	padding: 10px;
+
+}
+
+a { text-decoration: none;}
+
+
+
 img { width: 100%;}
 
 .panel {
@@ -9,8 +33,9 @@ img { width: 100%;}
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 80% 70%;
+	background-attachment: fixed;
 	width: 100%;
-	height: 800px;
+	height: 900px;
 }
 .welcome {
 	text-align: center;
@@ -21,12 +46,12 @@ img { width: 100%;}
 }
 
 .container {
-	background-color: rgba(46,66,41,.9);
+	background-color: rgba(255,255,255,.9);
 }
 .inner{
 width: 75%;
 margin: auto;
-background-color: rgba(46,66,41,0.6);
+background-color: rgba(255,255,255,0.1);
 	
 }
 
