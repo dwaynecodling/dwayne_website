@@ -10,7 +10,7 @@ html, body, {
 
 nav { 
 	text-align: center;
-	background-color: #94daca;
+	background-color: #272728;
 	padding-bottom: 20px;
 	padding-top: 20px;
 	position: relative;	
@@ -19,7 +19,7 @@ nav {
 nav li {
 	display: inline-block;
 	border: 2px;
-	border-color: green;
+	border-color: #cabbae;
 	border-style: solid;
 	border-radius: 5px;
 	margin-left: 20px;
@@ -29,7 +29,10 @@ nav li {
 
 }
 
-a { text-decoration: none;}
+a { 
+	text-decoration: none;     
+	color: #fff;
+}
 
 
 
@@ -55,8 +58,9 @@ img { width: 100%;}
 	text-align: center;
 	padding-top: 450px;
 	font-size: 150px;
-	color: #94daca;
+	color: #cabbae;
 	font-family: 'Lalezar', cursive;
+	    text-shadow: 2px 2px #272728;
 }
 
 .container {
